@@ -35,6 +35,38 @@ In order to give a fair observation, we are going to survey 3,842 people whom wi
 ## Descriptive Results
 
 ### Graphical Descriptive Results
+Gun Ownership Vs. Race
+
+```{r}
+barchartGC(race_table,type="percent", main= "Gun Ownershhip Vs. Race")
+```
+Based of this graph, it appears there are similar results between the different racial groups. All of the groups said NO on gun-ownership. However, when we observe which group primiarly said yes to gun-ownership, the white racial group had the highest YES percent. However, the majority of the groups had stated NO on gun-ownership. 
+
+Gun-Ownership Vs. Sex
+```{r}
+barchartGC(sex_table,type="percent", main= "Gun Ownershhip Vs. Sex")
+```
+Based on the graph, we can see that both males and females do say NO to gun-ownership. However, we can observe that the male group has a higher percentage of participants who said YES to gun-ownership. However, the majority of the two groups said NO to Gun-onwership.
+
+
+Gun-Ownership Vs. The Belief in God 
+```{r}
+barchartGC(god_table,type="percent", main= "Gun Ownershhip Vs. Belief in God")
+```
+Based on the graph, we can see that there is no direct relationship between a person's belief in God and Gun-ownership. All of the groups gave equal responses of both YES and NO to Gun-onwership. Therefore, there is no correlation. 
+
+Gun-Ownership Vs. Political Beliefs 
+```{r}
+barchartGC(polviews_table,type="percent", main= "Gun Ownershhip Vs. Political Beliefs")
+```
+Based on the data on the graph, we can see that there is somewhat of a direct relationship between one's political beliefs and their stance on gun-ownership. There was a higher percent of gun-ownership for Conservatives than there was for the Liberals. However, despite that, between the three groups,the majority still stated NO to gun-ownership.
+
+Gun-Ownership Vs. Captial Punishment 
+
+```{r}
+barchartGC(cappun_table,type="percent", main= "Gun Ownershhip Vs. Capital Punishment")
+```
+Based on the graph, we can see there is a difference the the response of those who favor capital punishment and those who do. We can there were more people who were in favor of capital punishment than those who oppose it. However, despite this being evident, the majority of the two groups still said NO to Gun-ownership. 
 
 <!--Graphical results here.  Make sure to show your code.  Provide appropriate labels for axes, giving units if possible, and provide a good title for the graph, too.  Use the graphical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
