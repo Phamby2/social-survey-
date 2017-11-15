@@ -1,7 +1,7 @@
 ---
 title: "Social Survey"
-author: "Paul Hamby"
-date: "11/13/17"
+author: "Put your name here!"
+date: "put the date here"
 output:
   html_document: default
 ---
@@ -16,8 +16,7 @@ source("Import_GSS_2014_haven.R")
 # Introduction
 
 <!--In this section you explain what you are trying to show.  Where did the data come from?  What is the research or other question you are trying to answer?!-->   
-In this analysis, we are observing several different varaibles within the population. As we observe these varibles such as the beleif in the big bang theory, race, and many others, we are interested in seing if there is a relationship between these factors. In other words, does a person's education level have a direct relationship with their beliefs? That is what we are interested in observing when looking at the data from the General Social Survey from the year 2014. As these factors are observed, there may or may not be a direct relationship observed.  
-
+In this study, we are observing several different varaibles and comparing them to one main varaible. In this case, the main varaible would be gun ownership which, we would compare to other varaibles. The other varaibles inclu
 ####This study deals with questions about possible relationships between gun ownership and race, sex, political views, opinions on capitol punishment and belief in god. The data is from the 2014 general social survey.
 
 
@@ -25,8 +24,6 @@ In this analysis, we are observing several different varaibles within the popula
 # Methods
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
-
-In order to give a fair observation, we are going to survey 3,842 people whom will be tested on 1,000 different variables/questions. Despite the General Social Survey having many different varaibles to measure, we are going to only focus on some of the varaibles. The varaibles we are going to be measuring are the following: beleif in the big bang theory, race, education level, and the belief in God. We are using the data from the General Social Survey for the year 2014 because it usually takes time in order for the results to be released. We will be using a varaible analysis test to see if there is a direct correlation between the different beliefs/characteristics of the population. For the numerical method, we are going to be performing a t-test between two varaibles. For the graphical method, I will be using a latrice barchart because, I think it would be ideal for this analysis involving several varaibles. 
 
 #Results
 
