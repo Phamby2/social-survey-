@@ -31,6 +31,7 @@ In order to give a fair observation, we are going to survey 3,842 people whom wi
 #Results
 
 <!--Divide this section into two sub-sections:  One for your descriptive  results and one for your inferential results.!-->
+See the Descriptive, Graphical, and Numerical, and Inferential Results sections below:
 
 ## Descriptive Results
 
