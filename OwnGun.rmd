@@ -72,6 +72,31 @@ Based on the graph, we can see there is a difference the the response of those w
 
 ### Numerical Descriptive Results
 
+```{r}
+rowPerc(race_table)
+```
+From the YES group, we can see 39% of white said YES to gun ownership, while 17% of the black group stated yes, and 14% of the other group said YES. When observing the NO responses to GUn-ownership, it appears the minority groups had stated No to gun-ownership in comparison to the whites. It appears 61% of whites stated No to gun-ownership while 83% of the black group stated No respectivley. 
+
+```{r}
+rowPerc(sex_table)
+```
+
+When observing the results from both males and females, we can see there was a slighly higher percent of males that states YES to gun-onwership. About 40% of males said Yes to Gun-onwership, while 27% of women stated Yes. However, both groups had a higher rate of statting NO to gun-ownership, 60% of the response was from Males and 72% made up females. 
+
+```{r}
+rowPerc(god_table)
+```
+When observing the numerical results of the groups, we can see that both the groups who either do or don't believe in God responded very simialry. There was an equal response in YES to Gun-onwership for Atheists, Theists, and Agnostics. Therefore, there is no direct relationship between once stance on GUn-onwership and their belief in God. 
+
+```{r}
+rowPerc(polviews_table)
+```
+When obsverving the numerical results, it appears there was a majoirty of a YES response to gun-ownership from Conservatives at a rate of 42%. While the Liberal group had the lowest response to gun-ownership at a rate of 25%. We can also observe, that Conservatives had the lowest NO response to gun-onwership at a rare of 58%. Liberals had the largest response to gun-onwership at a rate of 75%. 
+
+```{r}
+rowPerc(cappun_table)
+```
+When observing the numerical data for gun-ownership and those who favor captial punishment. We can see there is a difference in reponses. Those who are in favor of gun-ownership are more in favor of capital punishment. We see this evident as there was a 41% YEs rate to capital Punishment (gun owners) and 59% NO rate from those who are opposed to gun-ownership. Therefore, we can see there is a higher yes rate for captial punishment from those who favor gun-onwership than those who do not. 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
 # Inferential Results
